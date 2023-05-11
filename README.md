@@ -1,17 +1,16 @@
 ### Hi there 👋
 - 🎓 Undergraduate student at [Boston University](https://www.bu.edu/)
-<!--
-- 🔭 I’m currently working on ...
--->
 - 🌱 I’m currently learning deep learning models
 - 👯 I’m looking to collaborate on Machine Learning projects
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
 - 📫 How to reach me: wghong@bu.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: big soccer fan! Hala Madrid!
+<!--
+- 🔭 I’m currently working on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+-->
+
 
 
 **Languages & Tools**
@@ -33,9 +32,6 @@
   </a> 
   <a href="flask.palletsprojects.com" target="_blank" rel="noreferrer"> 
     <img src="https://i.postimg.cc/QNfnB6MG/flask-logo.png" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
