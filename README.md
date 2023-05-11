@@ -1,19 +1,18 @@
 ### Hi there 👋
-
+- 🎓 Undergraduate student at [Boston University](https://www.bu.edu/)
 <!--
-**GilbertHong2/GilbertHong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+-->
+- 🌱 I’m currently learning deep learning models
+- 👯 I’m looking to collaborate on Machine Learning projects
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: wghong@bu.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: big soccer fan! Hala Madrid!
+
 
 **Languages & Tools**
 <p align="left"> 
