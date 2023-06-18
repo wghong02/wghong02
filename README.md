@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 Undergraduate student at [Boston University](https://www.bu.edu/)
-- 🌱 I’m currently learning deep learning models
+- 🌱 I’m currently learning deep learning models and writing discord bots
 - 👯 I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me: wghong@bu.edu
 - 😄 Pronouns: He/Him
