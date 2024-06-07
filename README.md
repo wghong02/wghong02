@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 Undergraduate student at [Boston University](https://www.bu.edu/)
-- 🌱 I’m currently developing full stack web applications
+- 🌱 I’m currently developing full stack web applications and learning new tech stacks
 - 👯 I’m looking to collaborate on web applications
 - 📫 How to reach me: wghong@bu.edu
 - 😄 Pronouns: He/Him
