@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎓 Undergraduate student at [Boston University](https://www.bu.edu/)
-- 🌱 I’m currently learning deep learning models and writing discord bots
-- 👯 I’m looking to collaborate on Machine Learning projects
+- 🌱 I’m currently developing full stack web applications
+- 👯 I’m looking to collaborate on web applications
 - 📫 How to reach me: wghong@bu.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: big soccer fan! Hala Madrid!
